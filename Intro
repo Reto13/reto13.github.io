@@ -1,1 +1,6 @@
+theme: jekyll-theme-slate
+title: This is the personal homepage of Reto Schlegel
+description: Here you find information about my person
+plugins:
+  - jemoji
 
